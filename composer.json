@@ -1,0 +1,9 @@
+{
+  "name": "IvanPrat/PHPEasyDeploy",
+  "version": "dev-master",
+  "autoload": {
+    "classmap": [
+      "src/"
+    ]
+  }
+}
